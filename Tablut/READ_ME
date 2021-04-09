@@ -1,0 +1,7 @@
+Pour compiler ces fichiers à l'aide du shell, se deplacer dans le dossier avec 'cd', puis taper :
+
+gcc *.c -o prog
+
+Pour le lancer :
+
+./prog
